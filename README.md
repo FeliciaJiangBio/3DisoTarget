@@ -1,39 +1,69 @@
-# 3DisoTarget: Expanding Therapeutic Options Beyond Known Targets
+# ?? 3DisoTarget: Expanding Therapeutic Options Beyond Known Targets
 
-**3DisoTarget** is a conceptual extension of the *3DisoGalaxy* platform, aimed at addressing a critical challenge in precision oncology — the absence of actionable drug targets in a subset of patients.
+<div align="center">
 
-Built upon a structurally annotated landscape of all alternative protein isoforms in breast cancer — integrated with transcriptomic expression, ORF-based translation, and protein structure modeling — this project seeks to identify **functional analogs of known therapeutic targets** based on 3D structural similarity.
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-GitHub%20Pages-lightgrey.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-alpha-blue.svg)
 
-Instead of relying solely on canonical drug targets, **3DisoTarget** opens a novel therapeutic dimension by uncovering structurally viable alternatives among isoform-derived proteins. This approach may provide new hope for patients with rare or target-negative tumors, who are currently underserved by existing therapies.
+*A translational extension of 3DisoGalaxy for structure-based discovery of alternative therapeutic targets in cancer*
 
-> *3DisoTarget transforms a protein isoform atlas into a therapeutic discovery engine — unlocking possibilities beyond predefined receptor targets.*
+[?? Documentation](https://feliciajiangbio.github.io/3DisoGalaxy) ‧ [?? Explore 3DisoGalaxy](https://feliciajiangbio.github.io/3DisoGalaxy/) ‧ [?? About Author](https://feliciajiangbio.github.io/)
 
----
-
-## Related Work
-
-- [3DisoGalaxy: The Protein Isoform Universe](https://feliciajiangbio.github.io/3DisoGalaxy/)
-- Based on structure-informed transcriptomic analysis in breast cancer
+</div>
 
 ---
 
-## Clinical Relevance
+## ?? Overview
 
-This project aims to:
+**3DisoTarget** is a conceptual and translational expansion of the 3DisoGalaxy platform, designed to unlock therapeutic opportunities beyond known drug targets — particularly for cancer patients who lack traditional actionable receptors.
 
-- Expand precision medicine beyond the limitations of known targets
-- Support patients without canonical target expression
-- Introduce a structural rationale for therapeutic innovation
+Leveraging a structurally annotated atlas of breast cancer protein isoforms — including expression, ORF translation, and 3D structure — **3DisoTarget** matches isoform structures with known target receptors to identify **functionally and structurally analogous isoform alternatives**. This has potential to widen the scope of precision therapy beyond canonical targets.
 
----
-
-## Tech Stack
-
-- Protein structure modeling
-- Alternative splicing analysis
-- ORF quantification
-- Jekyll + GitHub Pages
+> "Where no targets exist, structure may still reveal opportunity."
 
 ---
 
-For scientific collaboration or inquiries, contact: [taojiangcuhk@gmail.com](mailto:taojiangcuhk@gmail.com)
+## ?? Objectives
+
+- **Extend precision oncology** to patients lacking canonical therapeutic targets
+- **Identify target analogs** based on isoform 3D structural similarity
+- **Translate alternative splicing biology** into clinically actionable insights
+- **Promote innovation** in target discovery pipelines using transcriptomics and structure
+
+---
+
+## ?? Project Highlights
+
+- Based on **3DisoGalaxy**’s proteome-wide isoform structure atlas  
+- Incorporates **ORF translation + AlphaFold structure prediction**  
+- Cross-references known therapeutic targets from public databases  
+- Enables **structure-guided search** for novel, isoform-derived target analogs  
+- Intuitive **Jekyll-based interface** powered by GitHub Pages
+
+---
+
+## ?? Biological Relevance
+
+Patients without conventional targets (e.g., HER2-, ER-, PR-) often lack effective therapies. **3DisoTarget** offers a pioneering approach:
+
+| Challenge | Solution via 3DisoTarget |
+|----------|--------------------------|
+| No known receptor expression | Identify structurally similar isoform analogs |
+| Isoform complexity ignored | Incorporate splicing-derived structural diversity |
+| Lack of new target hypotheses | Use isoform universe as untapped source |
+
+---
+
+## ?? Live Demo
+
+Visit the live platform:  
+?? [https://feliciajiangbio.github.io/3DisoGalaxy/](https://feliciajiangbio.github.io/3DisoGalaxy/)
+
+> Access interactive pages, isoform universe, and structure-based discovery modules.
+
+---
+
+## ?? Repository Structure
+
