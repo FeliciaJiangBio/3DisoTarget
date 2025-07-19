@@ -45,4 +45,31 @@ This initiative is not only a demonstration of the potential of **isoform-centri
 ---
 
 ## :clipboard: Project Structure
+3DisoTarget/
+├── _3DisoGalaxy/ # Core isoform data and structures
+├── _pages/3DisoTarget.md # Project description (used for GitHub Pages)
+├── assets/ # Figures and icons
+├── results/ # Screened analog targets
+├── scripts/ # Processing and analysis pipelines
+└── README.md # This file
 
+
+---
+
+## :email: Contact
+
+We welcome collaboration, discussion, and feedback.
+
+- :e-mail: **Tao Jiang** – *tjiang@surgery.cuhk.edu.hk*  
+- :e-mail: **Xin Wang** – *xinwang@cuhk.edu.hk*  
+- :e-mail: **Runhao Zhao** – *runhaozhao@nudt.edu.cn*
+
+> Or submit an issue in this GitHub repository: [https://github.com/FeliciaJiangBio/3DisoTarget/issues](https://github.com/FeliciaJiangBio/3DisoTarget/issues)
+
+---
+
+<div align="center">
+
+**:star: Star this project if you find it useful – your support encourages continued development!**
+
+</div>
