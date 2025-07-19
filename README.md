@@ -1,4 +1,4 @@
-# ?? 3DisoTarget: Expanding Therapeutic Options Beyond Known Targets
+# 3DisoTarget: Expanding Therapeutic Options Beyond Known Targets
 
 **3DisoTarget** is a conceptual extension of the *3DisoGalaxy* platform, aimed at addressing a critical challenge in precision oncology — the absence of actionable drug targets in a subset of patients.
 
@@ -6,20 +6,20 @@ Built upon a structurally annotated landscape of all alternative protein isoform
 
 Instead of relying solely on canonical drug targets, **3DisoTarget** opens a novel therapeutic dimension by uncovering structurally viable alternatives among isoform-derived proteins. This approach may provide new hope for patients with rare or target-negative tumors, who are currently underserved by existing therapies.
 
-> ?? *3DisoTarget transforms a protein isoform atlas into a therapeutic discovery engine — unlocking possibilities beyond predefined receptor targets.*
+> *3DisoTarget transforms a protein isoform atlas into a therapeutic discovery engine — unlocking possibilities beyond predefined receptor targets.*
 
 ---
 
-## ?? Related Work
+## Related Work
 
-- ?? [3DisoGalaxy: The Protein Isoform Universe](https://feliciajiangbio.github.io/3DisoGalaxy/)
-- ?? Based on structure-informed transcriptomic analysis in breast cancer
+- [3DisoGalaxy: The Protein Isoform Universe](https://feliciajiangbio.github.io/3DisoGalaxy/)
+- Based on structure-informed transcriptomic analysis in breast cancer
 
 ---
 
-## ????? Clinical Relevance
+## Clinical Relevance
 
-This project aspires to:
+This project aims to:
 
 - Expand precision medicine beyond the limitations of known targets
 - Support patients without canonical target expression
@@ -27,7 +27,7 @@ This project aspires to:
 
 ---
 
-## ??? Tech Stack
+## Tech Stack
 
 - Protein structure modeling
 - Alternative splicing analysis
@@ -36,4 +36,4 @@ This project aspires to:
 
 ---
 
-For any scientific collaborations or inquiries, feel free to reach out via [email](mailto:taojiangcuhk@gmail.com).
+For scientific collaboration or inquiries, contact: [taojiangcuhk@gmail.com](mailto:taojiangcuhk@gmail.com)
